@@ -2,7 +2,7 @@
 
 ## Inner Development Loop
 
-When working with Kubernetes, ideally you have a development environment which can replicate your production environment as closely as possible.
+When working with the Kubernetes, ideally you have a development environment which can replicate your production environment as closely as possible.
 
 We have shown how to deploy the demo application using `KinD` (and in a fast creating Civo cluster), but until now any change to the application would require a manual image rebuild.
 
